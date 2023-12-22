@@ -1,0 +1,9 @@
+api\test\TC_DDTUserModuleTest_002.class
+api\endpoints\UserEndpoints.class
+api\utilities\Reporting.class
+api\utilities\UserDataprovider.class
+api\utilities\XLUtils.class
+api\payload\User.class
+api\test\BaseClass.class
+api\endpoints\Routes.class
+api\test\TC_UserModuleTest_001.class
